@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="WELCOM.gif" alt="Welcome GIF" width="400" />
+</p>
 <h1 align="left">web developer</h1>
 
 ###
