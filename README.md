@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/main/WELCOM.gif" alt="Welcome GIF" width="400" />
+  <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/main/WELCOM.gif" alt="Welcome GIF" width="800" />
 </p>
 
 <h1 align="left">web developer</h1>
