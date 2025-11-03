@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SihamNafie24/SihamNafie24/blob/main/MamaGIF.gif?raw=true" width="600" />
+    <img src="./MamaGIF.gif" width="400" />
 </p>
 
 
