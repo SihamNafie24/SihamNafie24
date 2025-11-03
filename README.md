@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SihamNafie24/SihamNafie24/raw/main/MamaGIF.gif" width="400" />
+  <img src="./MamaGIF.gif" width="400" />
 </p>
+
 
 # Web Developer
 
