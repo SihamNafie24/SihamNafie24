@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./HackingNinjas.gif" width="350" alt="Coding Animation"/>
-</p>
 
 # Web Developer 💜
 
