@@ -1,9 +1,9 @@
 # 💜 Web Developer
 
-##  About Me
+##  About Me 🌸
 
 I'm a Junior Full-Stack Web Developer passionate about building modern, efficient, and scalable web applications.  
-I enjoy learning new technologies and transforming ideas into real-world digital solutions.
+I enjoy learning new technologies and transforming ideas into real-world digital solutions.🌸
 
 -  Working with modern JavaScript frameworks  
 -  Constantly learning and improving my skills  
@@ -26,7 +26,7 @@ const AboutMe = {
     backend: ["Node.js", "Express", "Django", "Laravel"],
     database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
     devOps: ["Docker", "GitHub Actions"],
-    tools: ["Git", "Figma", "Blender", "Postman"]
+    tools: ["Git", "Figma", "Postman"]
   },
   currentFocus: "Developing efficient, scalable, and maintainable web applications",
   funFact: "Passionate about learning new technologies and improving software solutions"
