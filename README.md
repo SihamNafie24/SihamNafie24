@@ -19,7 +19,7 @@ I enjoy learning new technologies and transforming ideas into real-world digital
 const AboutMe = {
   name: "Siham Nafie",
   role: "Junior Web Full-Stack Developer",
-  location: "Tanger, Morocco",
+  location: "Casablanca, Morocco",
   code: ["JavaScript", "TypeScript", "Python", "PHP"],
   technologies: {
     frontend: ["React", "Next.js", "Vue.js", "HTML/CSS"],
