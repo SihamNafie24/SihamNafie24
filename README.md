@@ -1,6 +1,6 @@
 # 💜 Web Developer
 
-##  About Me 
+##  
 
 I'm a Junior Full-Stack Web Developer passionate about building modern, efficient, and scalable web applications.  
 I enjoy learning new technologies and transforming ideas into real-world digital solutions.
