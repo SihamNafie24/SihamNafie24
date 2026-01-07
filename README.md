@@ -1,5 +1,5 @@
-# Junior Web Developer 💜
-SIHAM NAFIE
+# SIHAM NAFIE 💜
+Junior Web Developer
 ##  
 
 I'm a Junior Full-Stack Web Developer passionate about building modern, efficient, and scalable web applications.  
