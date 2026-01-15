@@ -1,4 +1,4 @@
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> SIHAM NAFIE 💜
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/>  SIHAM NAFIE 💜
  
 Junior Web Developer
 ##  
