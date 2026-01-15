@@ -14,7 +14,7 @@ I enjoy learning new technologies and transforming ideas into real-world digital
 
 ---
 
-## 🌸 Tech Stack 
+## 🌸 Tech Stack & Profile
 
 ```js
 const AboutMe = {
