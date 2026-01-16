@@ -1,6 +1,6 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/>  SIHAM NAFIE 
  
-Web Developer 💜
+Web Developer 
 ##  
 
 I'm a Junior Full-Stack Web Developer passionate about building modern, efficient, and scalable web applications.  
@@ -14,7 +14,7 @@ I enjoy learning new technologies and transforming ideas into real-world digital
 
 ---
 
-## 🌸 Tech Stack & Profile
+##  Tech Stack & Profile
 
 ```js
 const AboutMe = {
