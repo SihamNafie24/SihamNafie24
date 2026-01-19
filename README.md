@@ -1,6 +1,7 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> Siham Nafie | Web Developer
  
-Web Developer 
+<img src="hinata.gif" width="300" />
+
 ##  
 
 Based in **Morocco**, I specialize in building full-stack applications using JavaScript, Python, and PHP.
