@@ -1,6 +1,9 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> Siham Nafie | Web Developer
  
-<img src="hinata.gif" width="300" />
+<p align="center">
+  <img src="hinata.gif" width="420" />
+</p>
+
 
 ##  
 
