@@ -21,7 +21,7 @@ Based in **Morocco**, I specialize in building full-stack applications using Jav
 ```js
 const AboutMe = {
   name: "Siham Nafie",
-  role: "Junior Web Full-Stack Developer",
+  role: "Web Full-Stack Developer",
   location: "Casablanca, Morocco",
   code: ["JavaScript", "TypeScript", "Python", "PHP"],
   technologies: {
