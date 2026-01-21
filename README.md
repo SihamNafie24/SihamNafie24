@@ -17,6 +17,14 @@ Based in **Morocco**, I specialize in building full-stack applications using Jav
 ---
 
 ##  Tech Stack & Profile
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=tokyonight" />
+</p>
 
 ```js
 const AboutMe = {
