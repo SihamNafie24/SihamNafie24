@@ -34,7 +34,7 @@ const AboutMe = {
   currentFocus: "Developing efficient, scalable, and maintainable web applications",
   funFact: "Passionate about learning new technologies and improving software solutions"
 };
-##   Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" />
