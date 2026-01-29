@@ -35,15 +35,6 @@ const AboutMe = {
   funFact: "Passionate about learning new technologies and improving software solutions"
 };
 ```
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=tokyonight" />
-</p>
-
 ##   Connect with Me
 
 -  LinkedIn: https://www.linkedin.com/in/siham-nafie/
