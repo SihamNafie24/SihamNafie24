@@ -35,7 +35,7 @@ const AboutMe = {
   funFact: "Passionate about learning new technologies and improving software solutions"
 };
 ```
-##   Connect with Me 🌸
+##   Connect with Me 
 
 -  LinkedIn: https://www.linkedin.com/in/siham-nafie/
 -  Portfolio: https://my-portfolio-hazel-eta-50.vercel.app/
