@@ -1,5 +1,5 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28"/> Siham Nafie | Web Developer
-![Profile views](https://komarev.com/ghpvc/?username=ladyalen&color=8a2be2)
+![Profile views](https://komarev.com/ghpvc/?username=ladyalen&color=0e75b6)
 
  
 <p align="center">
