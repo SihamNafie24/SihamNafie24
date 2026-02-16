@@ -39,3 +39,6 @@ const AboutMe = {
 ```
 ##   Connect with Me 
 
+-  LinkedIn: https://www.linkedin.com/in/siham-nafie/
+-  Portfolio: https://my-portfolio-hazel-eta-50.vercel.app/
+-  Email: nafiesiham36@gmail.com
