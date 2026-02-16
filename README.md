@@ -37,10 +37,6 @@ const AboutMe = {
   funFact: "Passionate about learning new technologies and improving software solutions"
 };
 ```
-##  Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=rose_pine&hide_border=true)
-
----
 ##   Connect with Me 
 
 -  LinkedIn: https://www.linkedin.com/in/siham-nafie/
