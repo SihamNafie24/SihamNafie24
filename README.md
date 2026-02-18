@@ -19,24 +19,22 @@ Based in Morocco, I specialize in building full-stack applications using JavaScr
 ---
 
 ##  Tech Stack & Profile
-
+```javascript
 const AboutMe = {
-  name: "Siham Nafie",
-  role: "Web Full-Stack Developer",
-  location: "Casablanca, Morocco",
-  code: ["JavaScript", "TypeScript", "Python", "PHP"],
-  technologies: {
-    frontend: ["React", "Next.js", "Vue.js", "HTML/CSS"],
-    backend: ["Node.js", "Express", "Django", "Laravel"],
-    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    devOps: ["Docker", "GitHub Actions"],
-    tools: ["Git", "Figma", "Postman"]
-  },
-  currentFocus: "Developing efficient, scalable, and maintainable web applications",
-  funFact: "Passionate about learning new technologies and improving software solutions"
+    name: "Siham Nafie",
+    role: "Full-Stack Developer",
+    location: "Casablanca, Morocco 🇲🇦",
+    code: ["JavaScript", "Python", "PHP", "TypeScript"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "HTML/CSS"],
+        backend: ["Node.js", "Express", "Laravel", "Python"],
+        database: ["MySQL", "MongoDB", "PostgreSQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman"]
+    },
+    currentFocus: "Mastering Next.js & Cloud Technologies",
+    funFact: "I watch anime while waiting for my code to compile 🍥"
 };
-
----
+```
 ##   Connect with Me 
 
 -  LinkedIn: https://www.linkedin.com/in/siham-nafie/
