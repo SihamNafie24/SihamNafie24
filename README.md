@@ -23,7 +23,7 @@ Based in Morocco, I specialize in building full-stack applications using JavaScr
 const AboutMe = {
     name: "Siham Nafie",
     role: "Full-Stack Developer",
-    location: "Casablanca, Morocco 🇲🇦",
+    location: "Casablanca, Morocco ",
     code: ["JavaScript", "Python", "PHP", "TypeScript"],
     technologies: {
         frontend: ["React", "Next.js", "Tailwind CSS", "HTML/CSS"],
