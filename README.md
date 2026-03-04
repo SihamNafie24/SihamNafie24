@@ -35,7 +35,7 @@ const AboutMe = {
     funFact: "I watch anime while waiting for my code to compile 🍥"
 };
 ```
-##   Connect with Me 
+##   Connect with Me 🌸
 
 -  LinkedIn: https://www.linkedin.com/in/siham-nafie/
 -  Portfolio: https://my-portfolio-hazel-eta-50.vercel.app/
