@@ -38,3 +38,6 @@ const AboutMe = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical&langs_count=6" alt="Siham's Top Languages" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=donut&theme=radical&langs_count=6" alt="Siham's Top Languages" />
+</div>
