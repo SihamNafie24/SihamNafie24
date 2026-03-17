@@ -9,7 +9,7 @@
 
 ##  
 
-Based in Morocco, I specialize in building full-stack applications using JavaScript, Python, and PHP.
+Based in Morocco, I specialize in building full-stack applications using JavaScript, Python, and PHP. 💜
 -  Working with modern JavaScript frameworks  
 -  Constantly learning and improving my skills  
 -  Open to collaboration on web projects  
