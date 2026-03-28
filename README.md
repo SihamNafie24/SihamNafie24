@@ -38,4 +38,7 @@ const AboutMe = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical&langs_count=6" alt="Siham's Top Languages" />
 </div>
+## 🚀 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnafie24&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnafie24&layout=compact&theme=rose_pine)
