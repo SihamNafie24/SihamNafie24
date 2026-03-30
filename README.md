@@ -44,3 +44,7 @@ const AboutMe = {
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SihamNafie24&theme=2077" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=SihamNafie24&theme=dracula" />
+</p>
