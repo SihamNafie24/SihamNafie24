@@ -35,12 +35,3 @@ const AboutMe = {
     funFact: "I watch anime while waiting for my code to compile 🍥"
 };
 ```
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical&langs_count=6" alt="Siham's Top Languages" />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=SihamNafie24&theme=2077" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SihamNafie24&theme=2077" />
-</div>
-
