@@ -40,10 +40,8 @@ const AboutMe = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sihamnafie24&theme=rose_pine)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=dracula&show_icons=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
