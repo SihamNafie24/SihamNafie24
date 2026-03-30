@@ -45,6 +45,3 @@ const AboutMe = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SihamNafie24&theme=2077" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&theme=dracula&show_icons=true&cache_seconds=1800" />
-</p>
