@@ -35,3 +35,6 @@ const AboutMe = {
     funFact: "I watch anime while waiting for my code to compile 🍥"
 };
 ```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
