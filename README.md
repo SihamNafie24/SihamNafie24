@@ -44,4 +44,4 @@ const AboutMe = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SihamNafie24&theme=tokyonight)
 
 <!-- Top Languages Card -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=dark)
