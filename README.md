@@ -35,4 +35,6 @@ const AboutMe = {
     funFact: "I watch anime while waiting for my code to compile 🍥"
 };
 ```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
