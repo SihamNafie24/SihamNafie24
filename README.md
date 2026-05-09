@@ -35,16 +35,4 @@ const AboutMe = {
     funFact: "I watch anime while waiting for my code to compile 🍥"
 };
 ```
-### GitHub Stats:
 
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" />
-</p>
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SihamNafie24&theme=tokyonight)
-
-<!-- Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=tokyonight" />
-</p>
