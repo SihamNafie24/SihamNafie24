@@ -38,10 +38,13 @@ const AboutMe = {
 ### GitHub Stats:
 
 <!-- GitHub Stats Card -->
-![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=tokyonight" />
+</p>
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SihamNafie24&theme=tokyonight)
 
 <!-- Top Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=tokyonight" />
+</p>
