@@ -3,7 +3,7 @@
 
  
 <p align="center">
-  <img src="hinata.gif" width="420" />
+  <img src="full-stack-queen.gif" width="420" />
 </p>
 
 
