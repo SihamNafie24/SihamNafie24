@@ -39,14 +39,3 @@ const AboutMe = {
   <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-### 📊 GitHub Stats & Visitors
-
-| GitHub Stats | Visitors |
-| :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=radical) | [![Flag Counter](https://s01.flagcounter.com/count2/Jlip/bg_0D1117/txt_FFFFFF/border_30363D/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/)](https://info.flagcounter.com/Jlip) |
-
-**Total Profile Visitors:**  
-![Visitor Count](https://visitcount.itsvg.in/api?id=SihamNafie24&icon=0&color=0)
-
-### 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical)
