@@ -52,7 +52,3 @@ const AboutMe = {
 <!-- GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=SihamNafie24&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-<!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=SihamNafie24&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
