@@ -3,7 +3,7 @@
 
  
 <p align="center">
-  <img src="full-stack-queen.gif" width="420" />
+  <img src=".gif" width="420" />
 </p>
 
 
