@@ -39,3 +39,6 @@ const AboutMe = {
   <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+###  GitHub Stats
+![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical)
