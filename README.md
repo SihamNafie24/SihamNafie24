@@ -42,3 +42,5 @@ const AboutMe = {
 ###  GitHub Stats
 ![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=SihamNafie24&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SihamNafie24&layout=compact&theme=radical)
+
+<a href="https://info.flagcounter.com/Jlip"><img src="https://s01.flagcounter.com/count2/Jlip/bg_0D1117/txt_FFFFFF/border_30363D/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
