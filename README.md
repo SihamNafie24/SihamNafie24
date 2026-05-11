@@ -39,7 +39,7 @@ const AboutMe = {
   <img src="https://raw.githubusercontent.com/SihamNafie24/SihamNafie24/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
